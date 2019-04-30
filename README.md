@@ -8,8 +8,8 @@
 ![2.png](https://i.loli.net/2019/04/26/5cc279de280cf.png)
 #### 显示正在运行/已安装即正常
 ![3.png](https://i.loli.net/2019/04/26/5cc279dc23bd7.png)
-#### 3.安装客户端，在无盘服务器上挂载镜像盘
-![4.png](https://i.loli.net/2019/04/26/5cc27bb95a907.png)
+#### 3.安装客户端，先在无盘服务器上挂载镜像盘
+![gp.png](https://i.loli.net/2019/04/30/5cc7e625855f9.png)
 #### 4.在ADC防御中心后台 – 场所管理，查看已部署的网吧，修改场所名称
 ![5.png](https://i.loli.net/2019/04/26/5cc27bb949bc6.png)
 ![6.png](https://i.loli.net/2019/04/26/5cc27bb8d6680.png)
