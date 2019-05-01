@@ -9,7 +9,7 @@
 #### （显示正在运行/已安装即正常）
 ![3.png](https://i.loli.net/2019/04/26/5cc279dc23bd7.png)
 #### 3.安装客户端，先在无盘服务器上挂载镜像盘，打开下载的客户端部署工具，点击安装，完成会弹出提示，保存还原点即可
-![gp.png](https://i.loli.net/2019/04/30/5cc7e625855f9.png)
+![aadc.png](https://i.loli.net/2019/05/01/5cc94b670c697.png)
 #### 4.在ADC防御中心后台 – 场所管理，查看已部署的网吧，修改场所名称
 ![5.png](https://i.loli.net/2019/04/26/5cc27bb949bc6.png)
 ![6.png](https://i.loli.net/2019/04/26/5cc27bb8d6680.png)
