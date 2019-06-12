@@ -1,21 +1,21 @@
-![adc.png](https://i.loli.net/2019/04/26/5cc2c34131900.png)
+![adc.png](https://s2.ax1x.com/2019/06/12/VRLbzn.png)
 ## 注意：本工具与维护大师安全中心冲突，使用前先关闭安全中心模块
 ## 后台登录地址    http://47.110.82.75:81/login
 ### 使用教程
 #### 1.使用热心网友（QQ124302）提供的账号密码登录http://47.110.82.75:81/login ,下载服务端与客户端安装包
-![111.png](https://i.loli.net/2019/04/26/5cc279582feac.png)
+![111.png](https://s2.ax1x.com/2019/06/12/VRLLMq.png)
 #### 2.打开ADC服务管理器，点击安装服务
-![2.png](https://i.loli.net/2019/04/26/5cc279de280cf.png)
+![2.png](https://s2.ax1x.com/2019/06/12/VRLxdU.png)
 #### （显示正在运行/已安装即正常）
-![3.png](https://i.loli.net/2019/04/26/5cc279dc23bd7.png)
+![3.png](https://s2.ax1x.com/2019/06/12/VRLHRs.png)
 #### 3.安装客户端，先在无盘服务器上挂载镜像盘，打开下载的客户端部署工具，点击安装，完成会弹出提示，保存还原点即可
-![aadc.png](https://i.loli.net/2019/05/01/5cc94b670c697.png)
+![aadc.png](https://s2.ax1x.com/2019/06/12/VRLOs0.png)
 #### 4.在ADC防御中心后台 – 场所管理，查看已部署的网吧，修改场所名称
-![5.png](https://i.loli.net/2019/04/26/5cc27bb949bc6.png)
-![6.png](https://i.loli.net/2019/04/26/5cc27bb8d6680.png)
+![5.png](https://s2.ax1x.com/2019/06/12/VRLXLV.png)
+![6.png](https://s2.ax1x.com/2019/06/12/VRLvZT.png)
 #### 5.选择左侧规则分配 – 分配规则，自行勾选符合网吧环境的规则
-![7.png](https://i.loli.net/2019/04/26/5cc27bb919ef0.png)
-![8.png](https://i.loli.net/2019/04/26/5cc27bb923142.png)
+![7.png](https://s2.ax1x.com/2019/06/12/VRLzoF.png)
+![8.png](https://s2.ax1x.com/2019/06/12/VROpi4.png)
 #### 部署完成
 ### FAQ
 > * 1.问：是否支持自定义添加规则？
